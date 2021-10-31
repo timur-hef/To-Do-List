@@ -1,0 +1,8 @@
+*.pyc
+.vscode/*
+.idea/*
+course-info.txt
+course-info.yaml
+*.html
+*.pdf
+.venv/*
